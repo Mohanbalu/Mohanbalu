@@ -4,7 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2E0&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Cloud+Architecture+Specialist+%E2%98%81%EF%B8%8F;Innovation+Driven+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mohanbalu/Mohanbalu/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mohanbalu/Mohanbalu/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Mohanbalu/Mohanbalu/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
