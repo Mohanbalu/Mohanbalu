@@ -1,40 +1,79 @@
-<h1 align="center">Hi 👋, I'm Mohan</h1>
-<h3 align="center">A CSE(Cyber Security)Student from India</h3>
+# Hi there! 👋 I'm Mohan Balu V
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanbalu&label=Profile%20views&color=0e75b6&style=flat" alt="mohanbalu" /> </p>
+## 👨‍💻 About Me
+Full Stack Developer and Machine Learning enthusiast with a passion for building scalable, AI-driven solutions. Currently pursuing my Bachelor's Degree at SRM University AP with a GPA of 7.8/10.0.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanbalu" alt="mohanbalu" /></a> </p>
+## 🔭 I'm currently working on
+- Advanced Email Scanning System (Java)
+- Disaster Preparedness Platform
+- E-commerce platform with ML-powered recommendations
 
-- 🔭 I’m currently working on **my career**
+## 🌱 I'm currently learning
+- Advanced Machine Learning techniques
+- AWS Cloud Architecture
+- Full Stack Development with Java
 
-- 🌱 I’m currently learning **Programming**
+## 💼 Professional Experience
+### Edubot Intern (Mar 2024 - Apr 2024)
+- Built an Advanced Email Scanning System in Java, reducing malicious content exposure by 99%
+- Led a Disaster Preparedness Platform project, improving response times by 30%
 
-- 👯 I’m looking to collaborate **who has same mindset like mine**
+### Eduskills Foundation Intern (Oct 2024 - Dec 2024)
+- Gained hands-on experience in Java development
+- Enhanced problem-solving and teamwork skills
 
-- 🤝 I’m looking for help with **some projects and interns**
+## 🛠️ Skills
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [my github check at MyProjects](my github check at MyProjects)
+### Frameworks & Technologies
+- Full Stack Development (Java, Web)
+- Flask, Django
+- Machine Learning
+- IoT
 
-- 💬 Ask me about **C,C++,python,HTML,CSS,JAVA**
+### Databases & Tools
+- MySQL, PostgreSQL
+- Eclipse
+- GitHub
+- AWS Cloud Services
 
-- 📫 How to reach me **mohanbalu292@gmail.com**
+## 🎯 Notable Projects
 
-- 📄 Know about my experiences [check at MyProjects](check at MyProjects)
+### Banking Management System
+- Developed a comprehensive banking system using SQL
+- Features: Account management, transaction tracking, financial reporting
+- [View Project](#)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/MHNGMG1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohanbalu" height="30" width="40" /></a>
-<a href="[linkedin.com/in/mohan-balu-a9b7a4258](https://www.linkedin.com/in/mohanbalu/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohanbalu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohan.balu.9231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohanbalu" height="30" width="40" /></a>
-<a href="https://instagram.com/mohan451208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohan451208" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/mohanbalu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohanbalu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohanbalu_vedan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohanbalu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohanbalu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohanbalu" height="30" width="40" /></a>
-</p>
+### E-ShopHub
+- Full-stack E-commerce platform with ML integration
+- Features: User authentication, product management, ML recommendations
+- Technologies: PHP, MySQL, Machine Learning
+- [View Project](#)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+## 📜 Certifications
+- NPTEL: The Joy of Computing using Python
+- Google: Foundations of Cybersecurity
+- AWS: 
+  - Architecting Solutions
+  - Migrating to AWS Cloud
+  - AWS Cloud Technical Essentials
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohanbalu&show_icons=true&locale=en&layout=compact" alt="mohanbalu" /></p>
+## 📫 How to reach me
+- Email: mohanbalu292@gmail.com
+- Phone: 8074223801
+- LinkedIn: [Connect with me](#)
+- Portfolio: [View my work](#)
 
+## 📊 GitHub Stats
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
+## 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+⭐️ Feel free to reach out for collaborations or just a friendly chat!
