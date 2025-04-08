@@ -65,9 +65,8 @@ Full Stack Developer and Machine Learning enthusiast with a passion for building
 
 ## 📫 How to reach me
 - Email: mohanbalu292@gmail.com
-- Phone: 8074223801
-- LinkedIn: [Connect with me](#)
-- Portfolio: [View my work](#)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/mohanbalu/)
+- Portfolio: [View my work](https://mohanbalu-resume.netlify.app/)
 
 ## 📊 GitHub Stats
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanbalu&show_icons=true&theme=radical)
