@@ -70,10 +70,10 @@ Full Stack Developer and Machine Learning enthusiast with a passion for building
 - Portfolio: [View my work](#)
 
 ## 📊 GitHub Stats
-![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohanbalu&show_icons=true&theme=radical)
 
 ## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohanbalu&layout=compact&theme=radical)
 
 ---
 ⭐️ Feel free to reach out for collaborations or just a friendly chat!
