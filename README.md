@@ -190,18 +190,6 @@ journey
     AWS Essentials: 5: Complete
 ```
 
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-181717?style=for-the-badge&logo=github&logoColor=white)](https://mohanbalu-resume.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohanbalu/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mohanbalu292@gmail.com)
-
-</div>
-
 ---
 
 <div align="center">
